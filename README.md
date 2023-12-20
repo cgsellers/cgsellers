@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 -->
 ### :man_technologist: About Me :
 
-I am a Computer and Data Science from Spain
+I am a Computer and Data Science student from Spain.
+
+- :telescope: I’m very passionate about topics such as Machine Learning and NoSQL.
+
+- :seedling: On the lookout for interesting projects from which I can continue to learn.
+
+- :zap: In my free time, I sharpen up my coding skills and read news related to the field.
+
+  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgsellers&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
