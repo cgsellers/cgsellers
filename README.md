@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ### :man_technologist: About Me :
 
-I am a Computer and Data Science student from Spain.
+ML Engineering intern from Spain.
 
-- :telescope: I’m very passionate about topics such as Machine Learning and NoSQL.
+- :telescope: I’m very passionate about topics such as AI and NoSQL.
 
 - :seedling: On the lookout for interesting projects from which I can continue to learn.
 
