@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ML Engineering intern from Spain.
 
-- :telescope: Very passionate about topics such as AI and NoSQL.
+- :telescope: Very passionate about topics such as AI and NoSQL
 
 - :seedling: From time to time, I try to update my code (mostly Python)
 
-- :zap: In my free time, I sharpen up my coding skills and read news related to the field.
+- :zap: In my free time, I sharpen up my coding skills and read news related to the field
 
   
 
