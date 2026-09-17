@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### :man_technologist: About Me :
 
-ML Engineering intern from Spain.
+AI specialist from Spain.
 
 - :telescope: Very passionate about topics such as AI and NoSQL
 
